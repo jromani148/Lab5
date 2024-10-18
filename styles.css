@@ -1,0 +1,71 @@
+.box{
+    height: 200px;
+    width: 300px;
+    background-color: rgb(75, 128, 75);
+    color: orange;
+}
+.responsive-box{
+    width: 50vw;
+    height: 50vh;
+    background-color: aqua;
+}
+.padded-text{
+    padding: 20px;
+    background-color: aquamarine;
+}
+.custom-padding{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 20px;
+    padding-right: 20px;
+    background-color: blueviolet;
+}
+.border-box{
+    border: 2px;
+    background-color: brown;
+}
+.rounded-border{
+    border-style: dotted 3px;
+    border-radius: 15px;
+    background-color: red;
+}
+.marging-text{
+    margin: 30px;
+    background-color: rgb(219, 188, 166);
+
+}
+.custom-margin{
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+    background-color: rgb(112, 70, 18);
+}
+.inline-element{
+    display: inline;
+    background-color: rgb(97, 67, 126);
+}
+.block-element{
+    display: block;
+    background-color: rgb(38, 145, 145);
+}
+.inline-element-element{
+    display: inline-block;
+    background-color: goldenrod;
+}
+.hidden-element{
+    display: none;
+    background-color: rgb(76, 146, 208);
+}
+.visible-element{
+    visibility: visible;
+    background-color: limegreen;
+}
+.invisible-element{
+    visibility: hidden;
+    background-color: olive;
+}
+.transparent-box{
+    background-color: blue;
+    opacity: 0.5;
+}
